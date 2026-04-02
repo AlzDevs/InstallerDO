@@ -39,7 +39,7 @@ show_banner() {
     echo -e "${BLUE}"
     echo "╔══════════════════════════════════════════════════════════════╗"
     echo "║           AUTO INSTALLER WINDOWS SERVER VPS DO               ║"
-    echo "║                    by AlzDev                     ║"
+    echo "║                    by AlzDev                                 ║"
     echo "╚══════════════════════════════════════════════════════════════╝"
     echo -e "${NC}"
 }
